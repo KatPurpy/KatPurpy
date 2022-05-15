@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-v v v v v v v v v v v v v
 https://katpurpy.github.io
 
 ```
