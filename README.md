@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+I am too lazy to write a coherent description here so check out this webpage instead.
+
 https://katpurpy.github.io
+
+P.S. DRY ftw
 
 ```
 ⬜⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬛⬜
