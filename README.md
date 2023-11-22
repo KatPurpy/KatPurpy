@@ -31,7 +31,7 @@
 Check out my personal website
 -> https://katpurpy.github.io <-
 
-PET PROJECTS
+**PET PROJECTS**
 
 **2022 - now - https://katpurpy.github.io/ -** Personal website, html and css, javascript for background. Custom Hugo template.
 
